@@ -1,6 +1,7 @@
 # Kodluyoruz Ilk REPO
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) ***Front-End Eğitiminde*** oluşturduğumuz ilk repo. İçerisinde bir adet ***README*** dosyası, bir adet de *index*.***html*** barındırıyor.
 
+![](https://www.hizliresim.com/se3153d)
 
 ## Installation
 Öncelikle projeyi clonelayın. (gh repo clone RedFETT/kodluyoruzilkrepo)
